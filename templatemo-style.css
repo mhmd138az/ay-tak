@@ -194,7 +194,7 @@ ul {
   text-decoration: none;
 }
 .tm-nav li a.active {
-  background: url(../img/logo.png) no-repeat, url(../img/nav-underline.png) no-repeat;
+  background: url(logo.png) no-repeat, url(nav-underline.png) no-repeat;
   background-size: 20px, 74px 17px;
   background-position: 0% 30%, center bottom;
 }
@@ -250,7 +250,7 @@ ul {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url(../img/tm-brown-button.png);
+  background-image: url(tm-brown-button.png);
   width: 196px;
   height: 46px;  
   text-transform: uppercase;
@@ -291,7 +291,7 @@ ul {
 .img-thumbnail { padding: 8px; }
 .inline-block { display: inline-block; }
 .shadow-img {
-  background: url(../img/shadow.png) no-repeat center bottom;
+  background: url(shadow.png) no-repeat center bottom;
   padding-bottom: 7px;
 }
 .margin-top-30 { margin-top: 30px; }
@@ -348,7 +348,7 @@ ul {
 }
 .tm-social-icons-container { margin-top: 25px; }
 .tm-popular-item {
-  background: url(../img/popular-item-bg.png) no-repeat;
+  background: url(popular-item-bg.png) no-repeat;
   background-size: 100% 100%;
   max-width: 294px;
   margin-top: 30px;  
@@ -391,7 +391,7 @@ ul {
   -webkit-transition: all 0.3s ease;
           transition: all 0.3s ease;
 }
-.tm-popular-item:hover { background-image: url(../img/popular-item-bg-hover.png); }
+.tm-popular-item:hover { background-image: url(popular-item-bg-hover.png); }
 .tm-popular-item:hover .tm-popular-item-title { color: #c79c60; }
 .tm-popular-item:hover hr {
   border-color: #c79c60;
